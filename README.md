@@ -2,7 +2,7 @@
 
 # 
 
-# Mini-projet — \*Programmation Orientée Objets Java 2\*, ENET'Com, 2ème année GII, 2025-2026.
+# Mini-projet — \Programmation Orientée Objets Java \
 
 # 
 
